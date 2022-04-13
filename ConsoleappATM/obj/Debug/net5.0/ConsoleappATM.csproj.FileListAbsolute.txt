@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\bin\Debug\net5.0\ConsoleappATM.exe
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\bin\Debug\net5.0\ConsoleappATM.deps.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\bin\Debug\net5.0\ConsoleappATM.runtimeconfig.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\bin\Debug\net5.0\ConsoleappATM.runtimeconfig.dev.json
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\bin\Debug\net5.0\ConsoleappATM.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\bin\Debug\net5.0\ref\ConsoleappATM.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\bin\Debug\net5.0\ConsoleappATM.pdb
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\obj\Debug\net5.0\ConsoleappATM.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\obj\Debug\net5.0\ConsoleappATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\obj\Debug\net5.0\ConsoleappATM.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\obj\Debug\net5.0\ConsoleappATM.AssemblyInfo.cs
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\obj\Debug\net5.0\ConsoleappATM.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\obj\Debug\net5.0\ConsoleappATM.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\obj\Debug\net5.0\ref\ConsoleappATM.dll
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\obj\Debug\net5.0\ConsoleappATM.pdb
+C:\Users\User\source\repos\FormDersleri-1\ConsoleappATM\obj\Debug\net5.0\ConsoleappATM.genruntimeconfig.cache
